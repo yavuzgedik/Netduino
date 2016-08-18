@@ -1,0 +1,96 @@
+d:\Visual Studio 2010\Projects\ThingSpeakClient\ThingSpeakClient\obj\Debug\ResolveAssemblyReference.cache
+d:\Visual Studio 2010\Projects\ThingSpeakClient\ThingSpeakClient\obj\Debug\TinyCLR_DebugReferences.cache
+d:\Visual Studio 2010\Projects\ThingSpeakClient\ThingSpeakClient\bin\Debug\le\ThingSpeakClient.exe
+d:\Visual Studio 2010\Projects\ThingSpeakClient\ThingSpeakClient\bin\Debug\be\ThingSpeakClient.exe
+d:\Visual Studio 2010\Projects\ThingSpeakClient\ThingSpeakClient\bin\Debug\le\ThingSpeakClient.pdb
+d:\Visual Studio 2010\Projects\ThingSpeakClient\ThingSpeakClient\bin\Debug\be\ThingSpeakClient.pdb
+d:\Visual Studio 2010\Projects\ThingSpeakClient\ThingSpeakClient\bin\Debug\ThingSpeakClient.exe
+d:\Visual Studio 2010\Projects\ThingSpeakClient\ThingSpeakClient\bin\Debug\ThingSpeakClient.pdb
+d:\Visual Studio 2010\Projects\ThingSpeakClient\ThingSpeakClient\bin\Debug\le\ThingSpeakClient.pe
+d:\Visual Studio 2010\Projects\ThingSpeakClient\ThingSpeakClient\bin\Debug\le\ThingSpeakClient.pdbx
+d:\Visual Studio 2010\Projects\ThingSpeakClient\ThingSpeakClient\bin\Debug\be\ThingSpeakClient.pe
+d:\Visual Studio 2010\Projects\ThingSpeakClient\ThingSpeakClient\bin\Debug\be\ThingSpeakClient.pdbx
+d:\Visual Studio 2010\Projects\ThingSpeakClient\ThingSpeakClient\bin\Debug\LE\SecretLabs.NETMF.Hardware.pe
+d:\Visual Studio 2010\Projects\ThingSpeakClient\ThingSpeakClient\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoPlus.pe
+d:\Visual Studio 2010\Projects\ThingSpeakClient\ThingSpeakClient\bin\Debug\BE\SecretLabs.NETMF.Hardware.pe
+d:\Visual Studio 2010\Projects\ThingSpeakClient\ThingSpeakClient\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoPlus.pe
+d:\Visual Studio 2010\Projects\ThingSpeakClient\ThingSpeakClient\bin\Debug\LE\SecretLabs.NETMF.Hardware.pdbx
+d:\Visual Studio 2010\Projects\ThingSpeakClient\ThingSpeakClient\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoPlus.pdbx
+d:\Visual Studio 2010\Projects\ThingSpeakClient\ThingSpeakClient\bin\Debug\BE\SecretLabs.NETMF.Hardware.pdbx
+d:\Visual Studio 2010\Projects\ThingSpeakClient\ThingSpeakClient\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoPlus.pdbx
+d:\Visual Studio 2010\Projects\ThingSpeakClient\ThingSpeakClient\bin\Debug\SecretLabs.NETMF.Hardware.dll
+d:\Visual Studio 2010\Projects\ThingSpeakClient\ThingSpeakClient\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoPlus.dll
+d:\Visual Studio 2010\Projects\ThingSpeakClient\ThingSpeakClient\bin\Debug\SecretLabs.NETMF.Hardware.pdb
+d:\Visual Studio 2010\Projects\ThingSpeakClient\ThingSpeakClient\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoPlus.pdb
+d:\Visual Studio 2010\Projects\ThingSpeakClient\ThingSpeakClient\obj\Debug\ThingSpeakClient.exe
+d:\Visual Studio 2010\Projects\ThingSpeakClient\ThingSpeakClient\obj\Debug\ThingSpeakClient.pdb
+d:\visual studio 2010\Projects\ThingSpeakClient\ThingSpeakClient\obj\Debug\be\ThingSpeakClient.pe
+d:\visual studio 2010\Projects\ThingSpeakClient\ThingSpeakClient\obj\Debug\be\ThingSpeakClient.pdbx
+d:\visual studio 2010\Projects\ThingSpeakClient\ThingSpeakClient\obj\Debug\le\ThingSpeakClient.pe
+d:\visual studio 2010\Projects\ThingSpeakClient\ThingSpeakClient\obj\Debug\le\ThingSpeakClient.pdbx
+D:\Visual Studio 2010\Projects\ThingSpeak\ThingSpeakClient\bin\Debug\le\ThingSpeakClient.exe
+D:\Visual Studio 2010\Projects\ThingSpeak\ThingSpeakClient\bin\Debug\be\ThingSpeakClient.exe
+D:\Visual Studio 2010\Projects\ThingSpeak\ThingSpeakClient\bin\Debug\le\ThingSpeakClient.pdb
+D:\Visual Studio 2010\Projects\ThingSpeak\ThingSpeakClient\bin\Debug\be\ThingSpeakClient.pdb
+D:\Visual Studio 2010\Projects\ThingSpeak\ThingSpeakClient\bin\Debug\ThingSpeakClient.exe
+D:\Visual Studio 2010\Projects\ThingSpeak\ThingSpeakClient\bin\Debug\ThingSpeakClient.pdb
+D:\Visual Studio 2010\Projects\ThingSpeak\ThingSpeakClient\bin\Debug\le\ThingSpeakClient.pe
+D:\Visual Studio 2010\Projects\ThingSpeak\ThingSpeakClient\bin\Debug\le\ThingSpeakClient.pdbx
+D:\Visual Studio 2010\Projects\ThingSpeak\ThingSpeakClient\bin\Debug\be\ThingSpeakClient.pe
+D:\Visual Studio 2010\Projects\ThingSpeak\ThingSpeakClient\bin\Debug\be\ThingSpeakClient.pdbx
+D:\Visual Studio 2010\Projects\ThingSpeak\ThingSpeakClient\bin\Debug\LE\SecretLabs.NETMF.Hardware.pe
+D:\Visual Studio 2010\Projects\ThingSpeak\ThingSpeakClient\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoPlus.pe
+D:\Visual Studio 2010\Projects\ThingSpeak\ThingSpeakClient\bin\Debug\BE\SecretLabs.NETMF.Hardware.pe
+D:\Visual Studio 2010\Projects\ThingSpeak\ThingSpeakClient\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoPlus.pe
+D:\Visual Studio 2010\Projects\ThingSpeak\ThingSpeakClient\bin\Debug\LE\SecretLabs.NETMF.Hardware.pdbx
+D:\Visual Studio 2010\Projects\ThingSpeak\ThingSpeakClient\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoPlus.pdbx
+D:\Visual Studio 2010\Projects\ThingSpeak\ThingSpeakClient\bin\Debug\BE\SecretLabs.NETMF.Hardware.pdbx
+D:\Visual Studio 2010\Projects\ThingSpeak\ThingSpeakClient\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoPlus.pdbx
+D:\Visual Studio 2010\Projects\ThingSpeak\ThingSpeakClient\bin\Debug\SecretLabs.NETMF.Hardware.dll
+D:\Visual Studio 2010\Projects\ThingSpeak\ThingSpeakClient\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoPlus.dll
+D:\Visual Studio 2010\Projects\ThingSpeak\ThingSpeakClient\bin\Debug\SecretLabs.NETMF.Hardware.pdb
+D:\Visual Studio 2010\Projects\ThingSpeak\ThingSpeakClient\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoPlus.pdb
+D:\Visual Studio 2010\Projects\ThingSpeak\ThingSpeakClient\obj\Debug\ResolveAssemblyReference.cache
+D:\Visual Studio 2010\Projects\ThingSpeak\ThingSpeakClient\obj\Debug\TinyCLR_DebugReferences.cache
+D:\Visual Studio 2010\Projects\ThingSpeak\ThingSpeakClient\obj\Debug\be\ThingSpeakClient.pe
+D:\Visual Studio 2010\Projects\ThingSpeak\ThingSpeakClient\obj\Debug\be\ThingSpeakClient.pdbx
+D:\Visual Studio 2010\Projects\ThingSpeak\ThingSpeakClient\obj\Debug\le\ThingSpeakClient.pe
+D:\Visual Studio 2010\Projects\ThingSpeak\ThingSpeakClient\obj\Debug\le\ThingSpeakClient.pdbx
+D:\Visual Studio 2010\Projects\ThingSpeak\ThingSpeakClient\obj\Debug\ThingSpeakClient.exe
+D:\Visual Studio 2010\Projects\ThingSpeak\ThingSpeakClient\obj\Debug\ThingSpeakClient.pdb
+C:\Users\velet-pc\Desktop\Netduino\Projects\ThingSpeak\ThingSpeakClient\bin\Debug\le\ThingSpeakClient.exe
+C:\Users\velet-pc\Desktop\Netduino\Projects\ThingSpeak\ThingSpeakClient\bin\Debug\be\ThingSpeakClient.exe
+C:\Users\velet-pc\Desktop\Netduino\Projects\ThingSpeak\ThingSpeakClient\bin\Debug\le\ThingSpeakClient.pdb
+C:\Users\velet-pc\Desktop\Netduino\Projects\ThingSpeak\ThingSpeakClient\bin\Debug\be\ThingSpeakClient.pdb
+C:\Users\velet-pc\Desktop\Netduino\Projects\ThingSpeak\ThingSpeakClient\bin\Debug\ThingSpeakClient.exe
+C:\Users\velet-pc\Desktop\Netduino\Projects\ThingSpeak\ThingSpeakClient\bin\Debug\ThingSpeakClient.pdb
+C:\Users\velet-pc\Desktop\Netduino\Projects\ThingSpeak\ThingSpeakClient\bin\Debug\le\ThingSpeakClient.pe
+C:\Users\velet-pc\Desktop\Netduino\Projects\ThingSpeak\ThingSpeakClient\bin\Debug\le\ThingSpeakClient.pdbx
+C:\Users\velet-pc\Desktop\Netduino\Projects\ThingSpeak\ThingSpeakClient\bin\Debug\be\ThingSpeakClient.pe
+C:\Users\velet-pc\Desktop\Netduino\Projects\ThingSpeak\ThingSpeakClient\bin\Debug\be\ThingSpeakClient.pdbx
+C:\Users\velet-pc\Desktop\Netduino\Projects\ThingSpeak\ThingSpeakClient\bin\Debug\LE\SecretLabs.NETMF.Hardware.pe
+C:\Users\velet-pc\Desktop\Netduino\Projects\ThingSpeak\ThingSpeakClient\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoPlus.pe
+C:\Users\velet-pc\Desktop\Netduino\Projects\ThingSpeak\ThingSpeakClient\bin\Debug\BE\SecretLabs.NETMF.Hardware.pe
+C:\Users\velet-pc\Desktop\Netduino\Projects\ThingSpeak\ThingSpeakClient\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoPlus.pe
+C:\Users\velet-pc\Desktop\Netduino\Projects\ThingSpeak\ThingSpeakClient\bin\Debug\LE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\velet-pc\Desktop\Netduino\Projects\ThingSpeak\ThingSpeakClient\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoPlus.pdbx
+C:\Users\velet-pc\Desktop\Netduino\Projects\ThingSpeak\ThingSpeakClient\bin\Debug\BE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\velet-pc\Desktop\Netduino\Projects\ThingSpeak\ThingSpeakClient\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoPlus.pdbx
+C:\Users\velet-pc\Desktop\Netduino\Projects\ThingSpeak\ThingSpeakClient\bin\Debug\SecretLabs.NETMF.Hardware.dll
+C:\Users\velet-pc\Desktop\Netduino\Projects\ThingSpeak\ThingSpeakClient\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoPlus.dll
+C:\Users\velet-pc\Desktop\Netduino\Projects\ThingSpeak\ThingSpeakClient\bin\Debug\SecretLabs.NETMF.Hardware.pdb
+C:\Users\velet-pc\Desktop\Netduino\Projects\ThingSpeak\ThingSpeakClient\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoPlus.pdb
+C:\Users\velet-pc\Desktop\Netduino\Projects\ThingSpeak\ThingSpeakClient\obj\Debug\ThingSpeakClient.csprojResolveAssemblyReference.cache
+C:\Users\velet-pc\Desktop\Netduino\Projects\ThingSpeak\ThingSpeakClient\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\velet-pc\Desktop\Netduino\Projects\ThingSpeak\ThingSpeakClient\obj\Debug\be\ThingSpeakClient.pe
+C:\Users\velet-pc\Desktop\Netduino\Projects\ThingSpeak\ThingSpeakClient\obj\Debug\be\ThingSpeakClient.pdbx
+C:\Users\velet-pc\Desktop\Netduino\Projects\ThingSpeak\ThingSpeakClient\obj\Debug\le\ThingSpeakClient.pe
+C:\Users\velet-pc\Desktop\Netduino\Projects\ThingSpeak\ThingSpeakClient\obj\Debug\le\ThingSpeakClient.pdbx
+C:\Users\velet-pc\Desktop\Netduino\Projects\ThingSpeak\ThingSpeakClient\obj\Debug\ThingSpeakClient.exe
+C:\Users\velet-pc\Desktop\Netduino\Projects\ThingSpeak\ThingSpeakClient\obj\Debug\ThingSpeakClient.pdb
+C:\Users\velet-pc\Desktop\Netduino\Projects\ThingSpeak\ThingSpeakClient\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\velet-pc\Desktop\Netduino\Projects\ThingSpeak\ThingSpeakClient\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\velet-pc\Desktop\Netduino\Projects\ThingSpeak\ThingSpeakClient\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\velet-pc\Desktop\Netduino\Projects\ThingSpeak\ThingSpeakClient\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\velet-pc\Desktop\Netduino\Projects\ThingSpeak\ThingSpeakClient\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.dll
+C:\Users\velet-pc\Desktop\Netduino\Projects\ThingSpeak\ThingSpeakClient\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.pdb
